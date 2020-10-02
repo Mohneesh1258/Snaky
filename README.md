@@ -1,4 +1,4 @@
-# Snaky
+# Snaky- A Smart snake who plays
 
 Snaky is a Snake game series including a basic one-player version and three versions of AI to play Snake automatically.
 
